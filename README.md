@@ -8,13 +8,13 @@ https://youtube-clone-app-40a8a3.netlify.app/
 
 ## Table of Contents:
 
-  [About the App](#About-The-App)
-  [Screenshots](#Screenshots)
-  [Technologies](#Technologies)
-  [Setup](#Setup)
+  [About the App](#About-The-App) \
+  [Screenshots](#Screenshots) \
+  [Technologies](#Technologies) \
+  [Setup](#Setup) \
 
 
-## About-The-App:<a name="About-The-App"></a>
+## About The App:<a name="About-The-App"></a>
 A clone implementation of primary feature of youtube , search and access videos.
 
 ## Screenshots:<a name="Screenshots"></a>
