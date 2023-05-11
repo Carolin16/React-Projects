@@ -9,6 +9,7 @@ https://youtube-clone-app-40a8a3.netlify.app/
 ## Table of Contents:
 [About the App](#About the App)
 
+## About the app:
 ### `npm start`
 
 Runs the app in the development mode.\
