@@ -7,9 +7,9 @@ A clone implementation of primary feature of youtube , search and access videos.
 https://youtube-clone-app-40a8a3.netlify.app/
 
 ## Table of Contents:
-[About the App](#About the App)
+[About the App](#About-The-App)
 
-## About the App:
+## About-The-App:
 ### `npm start`
 
 Runs the app in the development mode.\
