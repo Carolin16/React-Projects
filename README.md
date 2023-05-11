@@ -1,15 +1,30 @@
 # Youtube clone app
 
-A clone implementation of primary feature of youtube , search and access videos.
+Youtube clone app
 
 ## Project url:
 
 https://youtube-clone-app-40a8a3.netlify.app/
 
 ## Table of Contents:
-[About the App](#About-The-App)
+<ul>
+  <li>[About the App](#About-The-App)</li>
+  <li>[Screenshots](#Screenshots)</li>
+  <li>[Technologies](#Technologies)</li>
+  <li>[Setup](#Setup)</li>
+ </ul>
 
 ## About-The-App:<a name="About-The-App"></a>
+A clone implementation of primary feature of youtube , search and access videos.
+
+## Screenshots:<a name="Screenshots"></a>
+![react app](https://github.com/Carolin16/React-Projects/assets/62839685/5c77f303-dbf1-48db-95d6-fbe0324430ea)
+
+## Technologies:<a name="Technologies"></a>
+React JS , Html , CSS 
+
+## Setup:<a name="Setup"></a>
+
 ### `npm start`
 
 Runs the app in the development mode.\
