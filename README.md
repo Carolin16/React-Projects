@@ -8,9 +8,9 @@ https://youtube-clone-app-40a8a3.netlify.app/
 
 ## Table of Contents:
 
-  * [About the App](#About-The-App) \
-  * [Screenshots](#Screenshots) \
-  * [Technologies](#Technologies) \
+  * [About the App](#About-The-App) 
+  * [Screenshots](#Screenshots) 
+  * [Technologies](#Technologies) 
   * [Setup](#Setup) 
 
 
